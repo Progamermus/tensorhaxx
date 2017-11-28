@@ -1,1 +1,3 @@
 # tensorhaxx
+
+Fredrik, nu ska du inte in och haxxa som en noob....
